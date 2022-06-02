@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# nancy.
-![peppa](https://github.com/nancykama/nancykama/blob/main/PngItem_984976.png)
+
+# nancy.![peppa](https://github.com/nancykama/nancykama/blob/main/PngItem_984976.png)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nancykama&title_color=5af78e&text_color=ffffff&bg_color=282a36&show_icons=true&icon_color=FFF" />
