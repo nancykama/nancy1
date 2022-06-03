@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 # nancy.![peppa](https://github.com/nancykama/nancykama/blob/main/peprrrr.png)
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nancykama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=midnight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancykama&layout=compact&theme=midnight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nancykama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancykama&layout=compact&theme=dracula&hide_border=true" />
 </p>
