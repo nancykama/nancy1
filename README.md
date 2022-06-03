@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# nancy.![peppa](https://github.com/nancykama/nancykama/blob/main/PngItem_984976.png)
+# nancy.![peppa](https://github.com/nancykama/nancykama/blob/main/pepr.png)
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nancykama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
