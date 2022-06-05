@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 ![two](https://github.com/nancykama/nancykama/blob/main/dos.png)
 ![three](https://github.com/nancykama/nancykama/blob/main/tres.png)
 ![one](https://github.com/nancykama/nancykama/blob/main/uno.png)
-![one](https://github.com/nancykama/nancykama/blob/main/uno.png)
-![three](https://github.com/nancykama/nancykama/blob/main/tres.png)
-![two](https://github.com/nancykama/nancykama/blob/main/dos.png)
 
 <p align="center">
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=nancykama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=EB478B&text_color=EF6CA3&bg_color=FDEDF3&show_icons=true&icon_color=F391BA" />
@@ -54,6 +51,3 @@ Here are some ideas to get you started:
 ![two](https://github.com/nancykama/nancykama/blob/main/dos.png)
 ![three](https://github.com/nancykama/nancykama/blob/main/tres.png)
 ![one](https://github.com/nancykama/nancykama/blob/main/uno.png)
-![one](https://github.com/nancykama/nancykama/blob/main/uno.png)
-![three](https://github.com/nancykama/nancykama/blob/main/tres.png)
-![two](https://github.com/nancykama/nancykama/blob/main/dos.png)
