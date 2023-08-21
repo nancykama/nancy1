@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 ![one](https://github.com/nancykama/nancykama/blob/main/uno.png)
 
 <p align="center">
-<img height="120em" src="github-readme-stats-nancykama.vercel.app/api?username=nancykama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=EB478B&text_color=EF6CA3&bg_color=FDEDF3&show_icons=true&icon_color=F391BA"
-src="http://github-readme-streak-stats.herokuapp.com?user=nancykama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=EB478B&text_color=EF6CA3&bg_color=FDEDF3&show_icons=true&icon_color=F391BA)(https://git.io/streak-stats"/>
+<img height="120em" src="http://github-readme-streak-stats.herokuapp.com?user=nancykama&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=EB478B&text_color=EF6CA3&bg_color=FDEDF3&show_icons=true&icon_color=F391BA)(https://git.io/streak-stats"/>
 </p> 
 
 ![one](https://github.com/nancykama/nancykama/blob/main/uno.png)
